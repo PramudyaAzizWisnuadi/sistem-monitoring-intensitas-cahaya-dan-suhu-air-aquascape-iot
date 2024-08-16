@@ -15,4 +15,7 @@ with the pin configuration as follows
 | GPIO 17    |             |                   | IN 2      |             |
 | GPIO 25    |             |                   | IN 3      |             |
 
+More details can be seen in the following journal article
+[Klik di sini untuk membaca artikel terkait](https://ejournal.uniramalang.ac.id/index.php/g-tech/article/view/4645)
+
 **Hope it is useful**
