@@ -1,5 +1,5 @@
 # sistem-monitoring-intensitas-cahaya-dan-suhu-air-aquascape-iot
-IoT-based aquascape light intensity and water temperature monitoring system connected to Blynk. The following is a picture of the equipment circuit
+IoT-based aquascape light intensity and water temperature monitoring system that connects to Blynk and displays notifications. The following is a picture of the equipment circuit
 
 ![1](https://github.com/user-attachments/assets/f921e214-e7e9-4e70-b165-49ca467bd10e)
 
