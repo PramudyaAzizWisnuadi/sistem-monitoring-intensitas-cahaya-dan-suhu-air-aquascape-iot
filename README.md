@@ -14,3 +14,5 @@ with the pin configuration as follows
 | GPIO 4     |             |                   | IN 1      |             |
 | GPIO 17    |             |                   | IN 2      |             |
 | GPIO 25    |             |                   | IN 3      |             |
+
+**Hope it is useful**
